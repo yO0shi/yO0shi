@@ -6,6 +6,7 @@
 - I'm currently working on Swift too.　So  far, it looks very similar to Grammar of Javascript!(No, it's different. When creating function, the syntax is different. Need to get used to it.)
 - everytime I learn return of function section, I realize that I don't understand what return is for. For app creation, it is necessary to learn Swift code!!
 - I still can't believe that I learned coding for 100days straight. Even if it's a small section, it stii has pushed me forward. Proud of myself.
+- I completed Swift course on Mimo!!
   
 - Codes that I'm actively working on:
   - HTML
