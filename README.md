@@ -12,6 +12,7 @@
   - HTML
   - CSS
   - Swift
+  - React
   - Javascript
   - Python
   - SQL
