@@ -7,7 +7,7 @@
 - everytime I learn return of function section, I realize that I don't understand what return is for. For app creation, it is necessary to learn Swift code!!
 - I still can't believe that I learned coding for 100days straight. Even if it's a small section, it stii has pushed me forward. Proud of myself.
 - I completed Swift course on Mimo!!
-- I am currently working on SQL!!
+- I am currently working on SQL!!!
   
 - Codes that I'm actively working on:
   - HTML
