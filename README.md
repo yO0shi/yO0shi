@@ -8,6 +8,7 @@
 - I still can't believe that I learned coding for 100 days straight. Even if it's a small section, it stiil has pushed me forward. Proud of myself.
 - I completed Swift course on Mimo!!
 - I am currently working on SQL!!! It is like a logic thing.
+- I read someones saying that claude code finally can analyze and hack the website. But i still do not know how those things happen, so i need to know that.
   
 - Codes that I'm actively working on:
   - HTML
@@ -18,6 +19,7 @@
   - Python
   - SQL(kinda logic game)
   - Typescript(kinda js thing?)
+
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
