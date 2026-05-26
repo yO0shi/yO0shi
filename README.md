@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a meaningful website for some people
-- 🌱 I’m currently learning Python, Javascript, and React
+- 🔭 I’m currently working on a website using HTML, CSS, and Javscript
+- 🌱 I’m currently learning Python, Javascript.
+- I'm a Job Seeker.
 - I'm currently reached 359 days streak challenge on Mimo!
 - I'm currently working on Swift too.　So  far, it looks very similar to Grammar of Javascript!(No, it's different. When creating function, the syntax is different. Need to get used to it.)
 - everytime I learn return of function section, I realize that I don't understand what return is for. For app creation, it is necessary to learn Swift code!!
