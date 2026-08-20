@@ -19,7 +19,7 @@
   - Javascript
   - Python
   - SQL(kinda logic game)
-  - Typescript(kinda js thing?)
+  - Typescript(kinda js thing? -> simply different functionality)
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
