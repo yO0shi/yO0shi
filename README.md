@@ -18,7 +18,7 @@
   - React
   - Javascript
   - Python
-  - SQL(kinda logic game)
+  - SQL(logic game once you ubderstand the rules)
   - Typescript(kinda js thing? -> simply different functionality)
 
 <!--- 👯 I’m looking to collaborate on ...
