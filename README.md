@@ -3,13 +3,14 @@
 - 🔭 I’m currently working on a website using HTML, CSS, and Javscript
 - 🌱 I’m currently learning Python, Javascript.
 - I'm a Job Seeker.
-- I'm currently reached 533 days streak challenge on Mimo!
+- I'm currently reached 534 days streak challenge on Mimo!
 - I'm currently working on Swift too.　So  far, it looks very similar to Grammar of Javascript!(No, it's different. When creating function, the syntax is different. Need to get used to it.)
 - everytime I learn return of function section, I realize that I don't understand what return is for. For app creation, it is necessary to learn Swift code!!
 - I still can't believe that I learned coding for 100 days straight. Even if it's a small section, it stiil has pushed me forward. Proud of myself.
 - I completed Swift course on Mimo!!
 - I am currently working on SQL!!! It is like a logic thing.
 - I read someones saying that claude code finally can analyze and hack the website. But i still do not know how those things work, so i need to know that.
+ I am currently working on the odin project too
   
 - Codes that I'm actively working on:
   - HTML
